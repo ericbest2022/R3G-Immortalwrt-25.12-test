@@ -1,5 +1,8 @@
 # MI-R3G-immortalwrt-build
 
+# 稳定固件
+
+
 默认IP：192.168.10.1
 
 用户名：root
