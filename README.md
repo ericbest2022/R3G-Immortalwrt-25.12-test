@@ -5,6 +5,7 @@
 
 ## Version
   REPO_URL: https://github.com/immortalwrt/immortalwrt
+  
   REPO_BRANCH: openwrt-24.10
 
 
