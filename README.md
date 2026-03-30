@@ -1,4 +1,4 @@
-# MI-R3G-immortalwrt-24.10
+# MI-R3G-immortalwrt-25.12
 
 # 测试中
 
@@ -6,7 +6,7 @@
 ## Version
   REPO_URL: https://github.com/immortalwrt/immortalwrt
   
-  REPO_BRANCH: openwrt-24.10
+  REPO_BRANCH: openwrt-25.12
 
 
 # 默认设置
