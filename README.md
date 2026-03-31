@@ -1,6 +1,6 @@
 # MI-R3G-immortalwrt-25.12
 
-# 测试中
+# 待测试
 
 
 ## Version
